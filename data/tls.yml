@@ -1,0 +1,112 @@
+M1M3:
+  fabrication:
+    M1:
+      {allocation: 105, prior-estimate: 105, as-built: 104, status: done}
+    M3:
+      {allocation: 38, prior-estimate: 38, as-built: 60, status: done}
+  support:
+    vibration:
+      {allocation: 10, prior-estimate: 10, as-built: 10, status: done}
+    actuator force error:
+      {allocation: 10, prior-estimate: 10, as-built: 10, status: to do}
+    gravity:
+      {allocation: 0, prior-estimate: 0, as-built: 0, status: to do}
+  CTE inhomogeneity:
+    M1:
+      {allocation: 51, prior-estimate: 32, as-built: 32, status: to do}
+    M3:
+      {allocation: 19, prior-estimate: 13, as-built: 13, status: to do}
+  thermal:
+    M1:
+      {allocation: 54, prior-estimate: 54, as-built: 54, status: to do}
+    M3:
+      {allocation: 54, prior-estimate: 83, as-built: 83, status: to do}
+    M1-backplate:
+      {allocation: 0, prior-estimate: 39, as-built: 39, status: to do}
+    M3-backplate:
+      {allocation: 0, prior-estimate: 8, as-built: 8, status: to do}
+  coating:
+    M1:
+      {allocation: 10, prior-estimate: 10, as-built: 10, status: to do}
+    M3:
+      {allocation: 10, prior-estimate: 10, as-built: 10, status: to do}
+  M3 vs M1:
+    vertex separation:
+      {allocation: 25, prior-estimate: 20, as-built: 20, status: to do}
+    decenter:
+      {allocation: 25, prior-estimate: 20, as-built: 20, status: to do}
+    wedge TIR:
+      {allocation: 25, prior-estimate: 20, as-built: 20, status: to do}
+M2:
+  fabrication:
+    {allocation: 29, prior-estimate: 20, as-built: 20, status: to do}
+  support:
+    actuator force error:
+      {allocation: 10, prior-estimate: 8, as-built: 8, status: to do}
+    gravity:
+      {allocation: 18, prior-estimate: 21, as-built: 0, status: to do}
+  thermal:
+    {allocation: 22, prior-estimate: 10, as-built: 10, status: to do}
+  CTE inhomogeneity:
+    {allocation: 10, prior-estimate: 4, as-built: 4, status: to do}
+  coating:
+    {allocation: 10, prior-estimate: 10, as-built: 10, status: to do}
+static alignment:
+  M2 decenter:
+    {allocation: 15, prior-estimate: 12, as-built: 12, status: to do}
+  M2 focus:
+    {allocation: 20, prior-estimate: 24, as-built: 24, status: to do}
+  M2 tilt:
+    {allocation: 15, prior-estimate: 12, as-built: 12, status: to do}
+  camera decenter:
+    {allocation: 15, prior-estimate: 12, as-built: 12, status: to do}
+  camera focus:
+    {allocation: 20, prior-estimate: 24, as-built: 24, status: to do}
+  camera tilt:
+    {allocation: 15, prior-estimate: 12, as-built: 12, status: to do}
+AOS:
+  wavefront sensing:
+    {allocation: 60, prior-estimate: 60, as-built: 80, status: to do}
+  mirror figure estimation:
+    {allocation: 40, prior-estimate: 40, as-built: 0, status: to do}
+  time lag:
+    {allocation: 10, prior-estimate: 10, as-built: 0, status: to do}
+  M1 figure control:
+    {allocation: 24, prior-estimate: 24, as-built: 0, status: to do}
+  M2 figure control:
+    {allocation: 10, prior-estimate: 10, as-built: 0, status: to do}
+  M3 figure control:
+    {allocation: 15, prior-estimate: 15, as-built: 0, status: to do}
+  alignment control:
+    {allocation: 20, prior-estimate: 20, as-built: 0, status: to do}
+wind buffeting:
+  mount:
+    {allocation: 10, prior-estimate: 28, as-built: 28, status: to do}
+  M1M3:
+    {allocation: 10, prior-estimate: 10, as-built: 10, status: to do}
+  M2:
+    {allocation: 10, prior-estimate: 4, as-built: 4, status: to do}
+tracking:
+  mount:
+    {allocation: 20, prior-estimate: 20, as-built: 20, status: to do}
+  rotator:
+    {allocation: 15, prior-estimate: 15, as-built: 15, status: to do}
+  mount drive shake:
+    {allocation: 45, prior-estimate: 56, as-built: 56, status: to do}
+  dome shake:
+    {allocation: 45, prior-estimate: 35, as-built: 35, status: to do}
+  equipment vibrations:
+    {allocation: 0, prior-estimate: 20, as-built: 20, status: to do}
+dome seeing:
+  dome outside:
+    {allocation: 75, prior-estimate: 80, as-built: 75, status: to do}
+  M1M3 mirror seeing:
+    {allocation: 50, prior-estimate: 20, as-built: 50, status: to do}
+  camera:
+    {allocation: 18, prior-estimate: 18, as-built: 18, status: to do}
+  top end:
+    {allocation: 18, prior-estimate: 18, as-built: 18, status: to do}
+  dome internal:
+    {allocation: 18, prior-estimate: 18, as-built: 18, status: to do}
+focus drift:
+  {allocation: 20, prior-estimate: 20, as-built: 20, status: to do}

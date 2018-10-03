@@ -1,0 +1,52 @@
+optics fabrication:
+  ROC:
+    {allocation: 26, prior-estimate: 26, as-built: 26, status: to do}
+  center thickness:
+    {allocation: 27, prior-estimate: 27, as-built: 27, status: to do}
+  TWE:
+    {allocation: 31, prior-estimate: 31, as-built: 31, status: to do}
+  Wedge:
+    {allocation: 27, prior-estimate: 27, as-built: 27, status: to do}
+  index inhomogeneity:
+    {allocation: 6, prior-estimate: 6, as-built: 6, status: to do}
+  asphere decenter:
+    {allocation: 6, prior-estimate: 6, as-built: 6, status: to do}
+  null test setup:
+    {allocation: 7, prior-estimate: 7, as-built: 7, status: to do}
+camera alignment:
+  L2 knowledge:
+    {allocation: 40, prior-estimate: 27, as-built: 27, status: to do}
+  L1 vs L2:
+    {allocation: 46, prior-estimate: 41, as-built: 41, status: to do}
+  BFOA knowledge:
+    {allocation: 26, prior-estimate: 21, as-built: 21, status: to do}
+  L1L2 vs BFOA:
+    {allocation: 24, prior-estimate: 19, as-built: 19, status: to do}
+  filter vs BFOA:
+    {allocation: 10, prior-estimate: 7, as-built: 7, status: to do}
+  L3 vs BFOA:
+    {allocation: 26, prior-estimate: 22, as-built: 22, status: to do}
+focal plane flatness:
+  sensor:
+    {allocation: 62, prior-estimate: 52, as-built: 83, status: to do}
+  raft:
+    {allocation: 22, prior-estimate: 11, as-built: 0, status: to do}
+  detector plane:
+    {allocation: 44, prior-estimate: 30, as-built: 30, status: to do}
+charge diffusion:
+  {allocation: 233, prior-estimate: 186, as-built: 196, status: to do}
+gravity:
+  correlated:
+    {allocation: 18, prior-estimate: 16, as-built: 16, status: to do}
+  uncorrelated:
+    {allocation: 59, prior-estimate: 53, as-built: 53, status: to do}
+  stress:
+    {allocation: 13, prior-estimate: 13, as-built: 13, status: to do}
+thermal:
+  correlated:
+    {allocation: 30, prior-estimate: 26, as-built: 26, status: to do}
+  uncorrelated:
+    {allocation: 10, prior-estimate: 4, as-built: 4, status: to do}
+  internal seeing:
+    {allocation: 23, prior-estimate: 20, as-built: 20, status: to do}
+    
