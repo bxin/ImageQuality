@@ -1,52 +1,62 @@
 optics fabrication:
   ROC:
-    {allocation: 26, prior-estimate: 26, as-built: 26, status: to do}
+    {allocation: 26, prior-estimate: 26, as-built: 26, status: 1910}
   center thickness:
-    {allocation: 27, prior-estimate: 27, as-built: 27, status: to do}
+    {allocation: 27, prior-estimate: 27, as-built: 27, status: 1910}
   TWE:
-    {allocation: 31, prior-estimate: 31, as-built: 31, status: to do}
+    {allocation: 31, prior-estimate: 31, as-built: 31, status: 1910}
   Wedge:
-    {allocation: 27, prior-estimate: 27, as-built: 27, status: to do}
+    {allocation: 27, prior-estimate: 27, as-built: 27, status: 1910}
   index inhomogeneity:
-    {allocation: 6, prior-estimate: 6, as-built: 6, status: to do}
+    {allocation: 6, prior-estimate: 6, as-built: 6, status: 1910}
   asphere decenter:
-    {allocation: 6, prior-estimate: 6, as-built: 6, status: to do}
+    {allocation: 6, prior-estimate: 6, as-built: 6, status: 1910}
   null test setup:
-    {allocation: 7, prior-estimate: 7, as-built: 7, status: to do}
+    {allocation: 7, prior-estimate: 7, as-built: 7, status: 1910}
 camera alignment:
   L2 knowledge:
-    {allocation: 40, prior-estimate: 27, as-built: 27, status: to do}
+    {allocation: 40, prior-estimate: 27, as-built: 27, status: 1901}
   L1 vs L2:
-    {allocation: 46, prior-estimate: 41, as-built: 41, status: to do}
+    {allocation: 46, prior-estimate: 41, as-built: 41, status: 1901}
   BFOA knowledge:
-    {allocation: 26, prior-estimate: 21, as-built: 21, status: to do}
+    {allocation: 26, prior-estimate: 21, as-built: 21, status: 1905}
   L1L2 vs BFOA:
-    {allocation: 24, prior-estimate: 19, as-built: 19, status: to do}
+    {allocation: 24, prior-estimate: 19, as-built: 19, status: 1907}
   filter vs BFOA:
-    {allocation: 10, prior-estimate: 7, as-built: 7, status: to do}
+    {allocation: 10, prior-estimate: 7, as-built: 7, status: 1910}
   L3 vs BFOA:
-    {allocation: 26, prior-estimate: 22, as-built: 22, status: to do}
+    {allocation: 26, prior-estimate: 22, as-built: 22, status: 1910}
 focal plane flatness:
   sensor:
-    {allocation: 62, prior-estimate: 52, as-built: 83, status: to do}
+    {allocation: 62, prior-estimate: 52, as-built: 83, status: 1901}
   raft:
-    {allocation: 22, prior-estimate: 11, as-built: 0, status: to do}
+    {allocation: 22, prior-estimate: 11, as-built: 0, status: 1902}
   detector plane:
-    {allocation: 44, prior-estimate: 30, as-built: 30, status: to do}
+    {allocation: 44, prior-estimate: 30, as-built: 30, status: 1903}
 charge diffusion:
-  {allocation: 233, prior-estimate: 186, as-built: 196, status: to do}
+  {allocation: 233, prior-estimate: 186, as-built: 196, status: 1907}
 gravity:
   correlated:
-    {allocation: 18, prior-estimate: 16, as-built: 16, status: to do}
+    {allocation: 18, prior-estimate: 16, as-built: 16, status: 1912}
   uncorrelated:
-    {allocation: 59, prior-estimate: 53, as-built: 53, status: to do}
+    {allocation: 59, prior-estimate: 53, as-built: 53, status: 1912}
   stress:
-    {allocation: 13, prior-estimate: 13, as-built: 13, status: to do}
+    {allocation: 13, prior-estimate: 13, as-built: 13, status: 1912}
 thermal:
   correlated:
-    {allocation: 30, prior-estimate: 26, as-built: 26, status: to do}
+    {allocation: 30, prior-estimate: 26, as-built: 26, status: 1912}
   uncorrelated:
-    {allocation: 10, prior-estimate: 4, as-built: 4, status: to do}
+    {allocation: 10, prior-estimate: 4, as-built: 4, status: 1912}
   internal seeing:
-    {allocation: 23, prior-estimate: 20, as-built: 20, status: to do}
+    {allocation: 23, prior-estimate: 20, as-built: 20, status: 1912}
+pressure:
+  L1L2:
+    {allocation: 15, prior-estimate: 13, as-built: 13, status: 1912}
+  L3:
+    {allocation: 31, prior-estimate: 28, as-built: 28, status: 1912}
+vibration:
+  optics:
+    {allocation: 10, prior-estimate: 9, as-built: 9, status: 1912}
+  detector plane:
+    {allocation: 60, prior-estimate: 52, as-built: 52, status: 1912}
     
