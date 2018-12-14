@@ -8,5 +8,6 @@ JIRA test case:
 https://jira.lsstcorp.org/secure/Tests.jspa#/testCase/LVV-T313
 
 Technical Notes:
+---
 https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-17171/
 
