@@ -8,8 +8,11 @@ These can be looked at using the Notebook iq.ipynb
 Detailed information on each leaf node, including how they are estimated, the as-built data that have been used as input, etc., can be found in ./leafNodes/. The README files in the subfolders describe the methodology each leaf node is estimated.
 
 The LSST Project uses JIRA to track the verification activities. If you have an LSST JIRA account, these are the OSS-level Verification Elements:
+
 https://jira.lsstcorp.org/browse/LVV-1537
+
 https://jira.lsstcorp.org/browse/LVV-1538
+
 By following the traceability, you can look at the test scripts for each test case and the execution staus etc.
 
 Git LFS
