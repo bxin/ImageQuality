@@ -8,5 +8,6 @@ https://jira.lsstcorp.org/secure/Tests.jspa#/testCase/LVV-T315
 
 Technical Notes:
 ---
-https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30725/
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-7271/ (initial analysis)
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30725/ (Bo's analysis)
 
