@@ -12,3 +12,7 @@ Technical Notes:
 ---
 https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-6187/ (initial analysis)
 
+Input data:
+---
+o. (T&S) CTE measurements from each melt of the M1M3 glass
+	status: pending

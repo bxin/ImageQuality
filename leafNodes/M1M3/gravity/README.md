@@ -12,7 +12,9 @@ Technical Notes:
 ---
 https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-?????/
 
-M1M3 FEA model used (on PDM Vault)
+Input data:
 ---
-/ /
-version 1
+o. (T&S) M1M3 FEA model (version before Mirror Lab tests)
+	status: pending
+	path on PDM Vault, and version
+

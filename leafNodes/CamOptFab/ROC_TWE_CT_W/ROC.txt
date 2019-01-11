@@ -1,0 +1,14 @@
+		prescription	tolerance		as-built		uncertainty	unit		source		date
+L1S1	2824.00		1			2824.762		0.085		mm		LCA-17		180601
+L1S2	5021		1.5			5021.130		0.197		mm		LCA-17		180601
+L2S1	inf			
+L2S2	2529		
+FS1		5632		
+FS2-u	5530
+FS2-g	5576
+FS2-r	5606
+FS2-i	5623
+FS2-z	5632
+FS2-y	5640
+L3S1	3169
+L3S2	13360

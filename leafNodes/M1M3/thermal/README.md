@@ -31,10 +31,16 @@ According to page 8 and 9, thickening back plate to 1.75" would make the thermal
 Now, take 250cm from page 8, corresponding FWHM = 40 mas
 take 750cm from page 9, corresponding FWHM = 19 mas
 
-https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-4634/ (initial analysis on M1M3 thermal total)
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-6852/ (initial analysis on M1M3 thermal total)
 
 page 22.
 M1 estimate maintains 54mas
 M3 estimate goes up to 84mas
 Note that these are without AOS corrections.
 
+Input data:
+---
+o. (T&S) M1M3 thermal gradient measurements (LTS-89 page 6), in Z, X, Y, and radial directions.
+	status:
+o. (T&S) M1M3 thermal FEA results (as presented in Document-6852
+        status: pending

@@ -11,3 +11,9 @@ Technical Notes:
 https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-6873/ (initial analysis)
 https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-28406/ (by Ed Hileman)
 
+Input data:
+---
+o. (T&S) M1M3 single actuator repeating and non-repeating errors
+	status: pending
+o. (T&S) M1M3 commanded forces and applied forces during Mirror Lab testing
+	status:

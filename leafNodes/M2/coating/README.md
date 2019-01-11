@@ -8,7 +8,7 @@ Verification Method:
 
 JIRA test case:
 ---
-https://jira.lsstcorp.org/secure/Tests.jspa#/testCase/LVV-T318
+https://jira.lsstcorp.org/secure/Tests.jspa#/testCase/LVV-T326
 
 Technical Notes:
 ---
@@ -16,7 +16,7 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document- (Tomi forwarded not
 
 Input data:
 ---
-o. (T&S) M1M3 coating uniformity measurements
+o. (T&S) M2 coating uniformity measurements
 	status:
-o. (T&S) M1M3 coating surface roughness measurements
+o. (T&S) M2 coating surface roughness measurements
 	status: pending

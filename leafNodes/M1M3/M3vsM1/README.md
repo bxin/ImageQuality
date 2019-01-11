@@ -9,5 +9,16 @@ https://jira.lsstcorp.org/secure/Tests.jspa#/testCase/LVV-T319
 
 Technical Notes:
 ---
-https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-3787/
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-18176/
+https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-19421/
+
+Input data:
+---
+o. (T&S) M3 position vs M3: vertex separation 
+	status: received
+o. (T&S) M3 position vs M3: decenter
+	status: received
+o. (T&S) M3 position vs M3: wedge total indicator run-out (TIR)
+	status: received
 
