@@ -13,23 +13,38 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-17171/
 
 Input data:
 ---
-o. (T&S) M1 polished surface at acceptance: 
-	status: received
-	M1_finalSurface_2015.fits
+o. (T&S) M1 polished surface at acceptance:
+status  | file
+------- |---------------------------
+received|M1_finalSurface_2015.fits
 o. (T&S) M3 polished surface at acceptance
-	status: received
-	M3_finalSurface_2015.fits
+status | file
+-|-
+received |M3_finalSurface_2015.fits
 o. (T&S) M1 as-built radius of curvature
-	status: received
+status |
+-|
+received|
 o. (T&S) M1 as-built conic constant
-        status: received
-o. (T&S) M3 as-built radius of curvature 
-        status: received
-o. (T&S) M3 as-built conic constant
-        status: received
-o. (T&S) M1 optimized surface as measured in the Mirror Lab
-	status:
-	
-o. (T&S) M3 optimized surface as measured in the Mirror Lab
-        status:
+status |
+-|
+received|
+o. (T&S) M3 as-built radius of curvature\
+status |
+-|
+received|
+o. (T&S) M3 as-built conic constant\
+status |
+-|
+received|
+o. (T&S) M1 optimized surface as measured in the Mirror Lab\
+status |
+-|
+ |
+o. (T&S) M3 optimized surface as measured in the Mirror Lab\
+status |
+-|
+|
+
+
 
