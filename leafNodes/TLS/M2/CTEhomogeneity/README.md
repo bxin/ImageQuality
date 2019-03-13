@@ -16,5 +16,8 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-7067/
 
 Input data:
 ---
-o. (T&S) CTE measurements from each boule of M2
-	status: pending
+* (T&S) CTE measurements from each boule of M2
+
+status |
+-|
+pending|

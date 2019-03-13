@@ -19,6 +19,11 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-8525/
 
 Input data:
 ---
-o. (Cam) image quality degradation due to gravitational stress in the camera
-	status: 
+* (Cam) image quality degradation due to gravitational stress in the camera
+
+status |
+-|
+|
+
+
 

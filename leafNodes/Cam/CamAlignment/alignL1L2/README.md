@@ -14,8 +14,16 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-10147/
 
 Input data:
 ---
-o. (Cam) L2 location knowledge with regard to Best Fit Optical Axis: piston, decenter, and tip-tilt
-	status: 
-o. (Cam) L1 alignment to L2: piston, decenter, and tip-tilt
-	status:
+* (Cam) L2 location knowledge with regard to Best Fit Optical Axis: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
+* (Cam) L1 alignment to L2: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
 

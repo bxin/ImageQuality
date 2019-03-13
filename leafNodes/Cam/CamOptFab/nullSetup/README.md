@@ -15,6 +15,10 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-16782/
 
 Input data:
 ---
-o. (Cam) Uncertainties in all camera optical parameter measurements, including ROC, center thickness, wedge, and asphere decenter
-	status: 
+* (Cam) Uncertainties in all camera optical parameter measurements, including ROC, center thickness, wedge, and asphere decenter
+
+status |
+-|
+|
+
 

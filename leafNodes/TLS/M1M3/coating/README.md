@@ -16,7 +16,15 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document- (Tomi forwarded not
 
 Input data:
 ---
-o. (T&S) M1M3 coating uniformity measurements
-	status:
-o. (T&S) M1M3 coating surface roughness measurements
-	status: pending
+* (T&S) M1M3 coating uniformity measurements
+
+status |
+-|
+|
+
+* (T&S) M1M3 coating surface roughness measurements
+
+status |
+-|
+pending|
+

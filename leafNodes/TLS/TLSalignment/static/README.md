@@ -13,7 +13,14 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-3905/
 
 Input data:
 ---
-o. (T&S) M2 hexapod positioning resolutions and repeating and non-repeating errors
-        status: 
-o. (T&S) Camera hexapod positioning resolutions and repeating and non-repeating errors
-        status: 
+* (T&S) M2 hexapod positioning resolutions and repeating and non-repeating errors
+
+status |
+-|
+|
+
+* (T&S) Camera hexapod positioning resolutions and repeating and non-repeating errors
+
+status |
+-|
+|

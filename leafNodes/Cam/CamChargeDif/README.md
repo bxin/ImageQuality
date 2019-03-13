@@ -19,6 +19,9 @@ Nuclear Instruments and Methods in Physics Research A 695 (2012) 296–297
 
 Input data:
 ---
-o. (Cam) mean charge-diffusion (FWHM) for all accepted pixels
-	status: received and being updated (4.2241um, 6/15/2018)
+* (Cam) mean charge-diffusion (FWHM) for all accepted pixels
+
+status |
+-|
+received and being updated (4.2241um, 6/15/2018)|
 

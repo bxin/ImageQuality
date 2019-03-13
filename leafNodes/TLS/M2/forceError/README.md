@@ -12,8 +12,15 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-10847/ (initial anal
 
 Input data:
 ---
-o. (T&S) M2 single actuator repeating and non-repeating errors
-        status: pending
-o. (T&S) M2 commanded forces and applied forces during on-summit testing
-        status:
+* (T&S) M2 single actuator repeating and non-repeating errors
+
+status |
+-|
+pending|
+
+* (T&S) M2 commanded forces and applied forces during on-summit testing
+
+status |
+-|
+|
 

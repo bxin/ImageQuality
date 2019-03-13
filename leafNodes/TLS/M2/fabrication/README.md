@@ -20,13 +20,26 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30767/ (interferomet
 
 Input data:
 ---
-o. (T&S) Localized high resolution measurements of M2 surface
-	status: received
-	Zemax grid file for M2 Swirl: M2_polishing_M2_161109_interp_gridSamp.DAT
-o. (T&S) Final interferometrically measured M2 surface 
-	status: received
-	from Harris, z in inch: M2_Harris.dat
-o. (T&S) M2 as-built radius of curvature
-        status: received
-o. (T&S) M2 as-built conic constant
-        status: received
+* (T&S) Localized high resolution measurements of M2 surface
+
+status | Zemax grid file for M2 Swirl
+-| - 
+received|M2_polishing_M2_161109_interp_gridSamp.DAT
+
+* (T&S) Final interferometrically measured M2 surface
+
+status | file
+-|-
+received | from Harris, z in inch: M2_Harris.dat
+	
+* (T&S) M2 as-built radius of curvature
+
+status |
+-|
+received|
+
+* (T&S) M2 as-built conic constant
+
+status |
+-|
+received|

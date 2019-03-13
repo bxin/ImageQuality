@@ -13,7 +13,11 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-?????/
 
 Input data:
 ---
-o. (T&S) M2 FEA model (version at M2 acceptance)
-        status: pending
-        path on PDM Vault, and version
+* (T&S) M2 FEA model (version at M2 acceptance)
+
+status | file
+-| - 
+pending |path on PDM Vault, and version
+
+        
 

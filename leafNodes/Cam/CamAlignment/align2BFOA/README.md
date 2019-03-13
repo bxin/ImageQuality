@@ -13,12 +13,28 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-283/
 
 Input data:
 ---
-o. (Cam) Best Fit Optical Axis location (BFOA) knowledge: piston, decenter, and tip-tilt
-	status: 
-o. (Cam) L3 alignment to BFOA: piston, decenter, and tip-tilt
-	status:
-o. (Cam) L1-L2 alignment to BFOA: piston, decenter, and tip-tilt
-        status:
-o. (Cam) Filter alignment to BFOA: piston, decenter, and tip-tilt
-        status:
+* (Cam) Best Fit Optical Axis location (BFOA) knowledge: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
+* (Cam) L3 alignment to BFOA: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
+* (Cam) L1-L2 alignment to BFOA: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
+* (Cam) Filter alignment to BFOA: piston, decenter, and tip-tilt
+
+status |
+-|
+|
+
 

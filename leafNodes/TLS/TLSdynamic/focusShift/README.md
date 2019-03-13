@@ -16,9 +16,20 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-7334/
 
 Input data:
 ---
-o. (T&S) temperature measurements during exposures and through the nights
-        status: 
-o. (T&S) FEA-based M1M3 shape change and TMA structure expansion as a function of bulk temperature
-	status:
-o. (Cam) FEA-based rigid body position and shape changes of all camera optical components as a function of bulk temperature.
-	status: received (updates needed if available)
+* (T&S) temperature measurements during exposures and through the nights
+
+status |
+-|
+|
+
+* (T&S) FEA-based M1M3 shape change and TMA structure expansion as a function of bulk temperature
+
+status |
+-|
+|
+
+* (Cam) FEA-based rigid body position and shape changes of all camera optical components as a function of bulk temperature.
+
+status |
+-|-
+status| received (updates needed if available)

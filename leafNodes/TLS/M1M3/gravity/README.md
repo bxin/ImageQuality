@@ -15,6 +15,8 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-?????/
 Input data:
 ---
 o. (T&S) M1M3 FEA model (version before Mirror Lab tests)
-	status: pending
-	path on PDM Vault, and version
+
+status |file
+-|-
+pending| path on PDM Vault, and version
 

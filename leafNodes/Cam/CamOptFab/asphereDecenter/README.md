@@ -18,6 +18,9 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-????/
 
 Input data:
 ---
-o. (Cam) L2 asphere decenter
-	status: received (67um, per LCA-17, JW 6/1/2018)
+* (Cam) L2 asphere decenter
+
+status |
+-|
+received (67um, per LCA-17, JW 6/1/2018) |
 

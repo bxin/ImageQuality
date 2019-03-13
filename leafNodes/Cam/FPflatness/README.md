@@ -17,6 +17,9 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-283/
 
 Input data:
 ---
-o. (Cam) as-built focal plane height map 
-	status: 
+* (Cam) as-built focal plane height map 
+
+status |
+-|
+| 
 

@@ -21,12 +21,29 @@ Proc. of SPIE 10705, 107050P (2018)
 
 Input data:
 ---
-o. (T&S) Poining history from the Operations Simulator, including summit temperature profile
-        status: received
-o. (T&S) M1M3 and M2 printthroughs as functions of zenith angle
-	status:
-o. (T&S) M1M3 and M2 deformations as functions of bulk temperatures and thermal gradients
-	status: received
-o. (Cam) Camera optics deformations as functions of zenith angle, camera bulk temperature, and camera rotation angle.
-        status: received (updates needed if available)
+* (T&S) Poining history from the Operations Simulator, including summit temperature profile
+
+status |
+-|
+received|
+
+* (T&S) M1M3 and M2 printthroughs as functions of zenith angle
+
+status |
+-|
+|
+
+* (T&S) M1M3 and M2 deformations as functions of bulk temperatures and thermal gradients
+
+status |
+-|
+received|
+
+* (Cam) Camera optics deformations as functions of zenith angle, camera bulk temperature, and camera rotation angle.
+
+
+status |
+-|-
+received (updates needed if available) |
+
 

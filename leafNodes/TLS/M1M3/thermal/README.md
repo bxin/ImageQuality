@@ -40,7 +40,15 @@ Note that these are without AOS corrections.
 
 Input data:
 ---
-o. (T&S) M1M3 thermal gradient measurements (LTS-89 page 6), in Z, X, Y, and radial directions.
-	status:
-o. (T&S) M1M3 thermal FEA results (as presented in Document-6852
-        status: pending
+* (T&S) M1M3 thermal gradient measurements (LTS-89 page 6), in Z, X, Y, and radial directions.
+
+status |
+-|
+|
+
+* (T&S) M1M3 thermal FEA results (as presented in Document-6852
+
+status |
+-|
+pending|
+

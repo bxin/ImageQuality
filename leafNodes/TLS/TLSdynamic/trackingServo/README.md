@@ -15,9 +15,21 @@ Proc. of SPIE Vol. 7738 77381U (2010)
 
 Input data:
 ---
-o. (T&S) centroid noise as calculated from on-sky guider images
-        status: 
-o. (T&S) centroid noise as predicted from as-measured read noise and sky background etc.
-	status:
-o. (T&S) image degradation contributed by the guider/mount servo loop
-	status:
+* (T&S) centroid noise as calculated from on-sky guider images
+
+status |
+-|
+|
+
+* (T&S) centroid noise as predicted from as-measured read noise and sky background etc.
+
+status |
+-|
+|
+
+* (T&S) image degradation contributed by the guider/mount servo loop
+
+status |
+-|
+|
+

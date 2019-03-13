@@ -27,6 +27,9 @@ Vincent's email on 8/17/2018
 
 Input data:
 ---
-o. (Cam) image quality degradation due to camera thermal effects
-	status: 
+* (Cam) image quality degradation due to camera thermal effects
+
+status |
+-|
+| 
 

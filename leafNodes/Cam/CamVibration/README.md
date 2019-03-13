@@ -20,6 +20,11 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-283/ (sec. 11.4)
 
 Input data:
 ---
-o. (Cam) image quality degradation due to camera vibration
-	status: 
+* (Cam) image quality degradation due to camera vibration
+
+status |
+-|
+|
+
+
 

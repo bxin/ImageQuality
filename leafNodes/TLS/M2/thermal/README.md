@@ -17,8 +17,15 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-8251/
 
 Input data:
 ---
-o. (T&S) M2 thermal gradient measurements, in Z and radial directions.
-	status:
+* (T&S) M2 thermal gradient measurements, in Z and radial directions.
 
-o. (T&S) M2 thermal FEA results (as presented in Document-8231
-	status: pending
+status |
+-|
+|
+
+* (T&S) M2 thermal FEA results (as presented in Document-8231
+
+status |
+-|
+pending|
+

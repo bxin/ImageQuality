@@ -20,11 +20,27 @@ Proc. of SPIE Vol. 10705 1070503 (2018)
 
 Input data:
 ---
-o. (T&S) measurements of CFD boundary conditions, including temperature at various positions and wind speed and direction.
-        status: 
-o. (T&S) results of CFD analyses using updated boundary conditions.
-	status:
-o. (SIT-COM) seeing measurements from the inside and outside DIMMs.
-	status:
-o. (SIT-COM) measurements from the dome seeing monitors
-	status:
+* (T&S) measurements of CFD boundary conditions, including temperature at various positions and wind speed and direction.
+
+status |
+-|
+|
+
+* (T&S) results of CFD analyses using updated boundary conditions.
+
+status |
+-|
+|
+
+* (SIT-COM) seeing measurements from the inside and outside DIMMs.
+
+status |
+-|
+|
+
+* (SIT-COM) measurements from the dome seeing monitors
+
+status |
+-|
+|
+

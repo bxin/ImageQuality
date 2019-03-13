@@ -20,8 +20,16 @@ SPIE8449, 844905(2012)
 
 Input data:
 ---
-o. (T&S) Measurements of wind speed, pressure, and structure response at various locations on the mount, M1M3, and M2.
-        status: 
-o. (T&S) Displacements and shape distortions of M1M3 and M2 due to wind buffeting, derived from instant response analysis using Finite Element Model.
-	status:
+* (T&S) Measurements of wind speed, pressure, and structure response at various locations on the mount, M1M3, and M2.
+
+status |
+-|
+|
+
+* (T&S) Displacements and shape distortions of M1M3 and M2 due to wind buffeting, derived from instant response analysis using Finite Element Model.
+
+status |
+-|
+|
+
 

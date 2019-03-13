@@ -14,5 +14,9 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-16171/
 
 Input data:
 ---
-o. (T&S) vibration measurements from mount and dome encoders and accelerometers at various locations
-        status: 
+* (T&S) vibration measurements from mount and dome encoders and accelerometers at various locations
+
+status |
+-|
+|
+

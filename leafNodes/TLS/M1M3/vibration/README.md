@@ -13,9 +13,21 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/Document-30725/ (Bo's analysi
 
 Input data:
 ---
-o. (T&S) accelerator data from Vibration Measurement System (VMS)
-	status: received (CAID testing)
-o. (T&S) displacement data from Independent Measurement System (IMS)
-	status: received (CAID testing)
-o. (T&S) electronic noise data from the VMS
-	status:
+* (T&S) accelerator data from Vibration Measurement System (VMS)
+
+status |file
+-|-
+received| from CAID testing
+
+* (T&S) displacement data from Independent Measurement System (IMS)
+
+status |file
+-|-
+received| from CAID testing
+
+* (T&S) electronic noise data from the VMS
+
+status |
+-|
+|
+

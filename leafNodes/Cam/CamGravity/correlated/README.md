@@ -17,6 +17,10 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-283/ (sec. 11.3.3.2)
 
 Input data:
 ---
-o. (Cam) change in alignment for each optic at an intermediate zenith angle (nominally 75 deg, but may lie anywhere between 0 and 90 degrees)
-	status:
+* (Cam) change in alignment for each optic at an intermediate zenith angle (nominally 75 deg, but may lie anywhere between 0 and 90 degrees)
+
+status |
+-|
+|
+
 

@@ -21,7 +21,12 @@ https://docushare.lsstcorp.org/docushare/dsweb/Get/LCA-283/ (sec. 11.3.3.2)
 
 Input data:
 ---
-o. (Cam) change in alignment for each optic with camera rotator angle
+* (Cam) change in alignment for each optic with camera rotator angle
 of 60 or 90 degrees
-	status:
+
+status |
+-|
+|
+
+
 
