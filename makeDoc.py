@@ -42,7 +42,7 @@ icount = 0
 for path_in_str in pathlist:
     # because path is object not string
     # path_in_str = str(path)
-    fid.write('--------------%s------------\n' % path_in_str)
+    fid.write('----------%s---------\n' % path_in_str)
 
     fidr = open(path_in_str)
     isinput = False

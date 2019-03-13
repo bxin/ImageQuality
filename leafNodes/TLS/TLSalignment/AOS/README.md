@@ -43,7 +43,7 @@ received|
 
 
 status |
--|-
+-|
 received (updates needed if available) |
 
 
